@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <String Id="MyInstallDirDlg_desktopShortcut" Overridable="yes">Create the desktop shortcut</String>
+  <String Id="Other_LaunchApp" Overridable="yes">Launch Program</String>
+  <String Id="Other_Manufacturer" Overridable="yes">ZT</String>
+  <String Id="Other_PkgDesc" Overridable="yes">ZT's Reader Installer</String>
+  <String Id="Other_PkgComments" Overridable="yes">Reader is a product of ZT</String>
+  <String Id="Other_Uninstall" Overridable="yes">Uninstall Reader</String>
+  <String Id="Other_Help" Overridable="yes">Reader Help</String>
+</WixLocalization>
+
